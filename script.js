@@ -4,4 +4,4 @@ function decimalToBinary(num) {
   
 }
 
-window.decimalToBinary = decimalToBinary;
+
